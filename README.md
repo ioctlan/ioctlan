@@ -13,7 +13,7 @@ Systems · Networking · Infrastructure · Open Source
 
 ### `$ whoami`
 
-I'm a software developer with experience across the full stack — from building web applications and backend systems to working closer to the operating system.
+I'm a software engineer with experience across the full stack — from building web applications and backend systems to working closer to the operating system.
 
 I can build across the stack, but my engineering interests gravitate toward the lower layers: systems programming, networking, infrastructure, and understanding what happens beneath the abstractions.
 
