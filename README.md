@@ -23,7 +23,7 @@ I like reading source code, understanding the machinery underneath, and building
 
 ### `$ current_work`
 
-- **[querytrail](https://github.com/ioctlan/querytrail)** — Building a lightweight Linux DNS activity recorder written in C, featuring packet capture, process attribution, and searchable historical records.
+- **[synackfin](https://github.com/ioctlan/synackfin)** — Building a passive TCP connection observability tool that tracks connection lifecycles, captures connection events and statistics, and maintains a searchable history.
 - **Rust** — Bringing Rust into my systems programming toolkit.
 
 ### `$ open_source`
