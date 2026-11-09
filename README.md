@@ -23,7 +23,8 @@ I like reading source code, understanding the machinery underneath, and building
 
 ### `$ current_work`
 
-- **[synackfin](https://github.com/ioctlan/synackfin)** — Building a passive TCP connection observability tool that tracks connection lifecycles, captures connection events and statistics, and maintains a searchable history.
+- **[synackfin](https://github.com/ioctlan/synackfin)** — A local-first TCP observability application for exploring live connections, traffic patterns, and connection lifecycles.
+- **[querytrail](https://github.com/ioctlan/querytrail)** — A lightweight DNS query observability tool that passively captures, parses, and displays DNS queries and responses in real time.
 - **Rust** — Bringing Rust into my systems programming toolkit.
 
 ### `$ open_source`
