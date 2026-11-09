@@ -23,7 +23,7 @@ I like reading source code, understanding the machinery underneath, and building
 
 ### `$ current_work`
 
-- **[synackfin](https://github.com/ioctlan/synackfin)** — A local-first TCP observability application for exploring live connections, traffic patterns, and connection lifecycles. *(`Python` · `Rust`)*
+- **[synackfin](https://github.com/ioctlan/synackfin)** — A local-first TCP observability application for exploring live connections, traffic patterns, and connection lifecycles. *(`Python` · `Rust` · `React`)*
 - **[querytrail](https://github.com/ioctlan/querytrail)** — A lightweight DNS query observability tool that passively captures, parses, and displays DNS queries and responses in real time. *(`C`)*
 
 ### `$ open_source`
